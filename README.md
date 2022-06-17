@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinícius Pinheiro 👋
+### Olá! Eu sou o Vinícius Pinheiro dos Anjos 👋
 
 
 - 🔭 I’m currently working on Android
