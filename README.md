@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vinícius Pinheiro dos Anjos 👋
 
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Kotlin and Android Studio
+- 🔭 I’m civil engineer and currently working with construction on my own
+- 🌱 I’m currently learning Kotlin, Dart, Flutter and Android Studio
 - 📫 How to reach me: viniciuspanjos@gmail.com
 
 <div align="center">
